@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Bayesian based MT-SAPHIR rainfall",
+    "url": "https://mosdac.gov.in/bayesian-based-mt-saphir-rainfall",
+    "description": "Megha- Tropiques (MT) is a joint Indo-French collaborative satellite mission, which is launched on 12 October 2011.",
+    "documents": []
+  },
+  {
+    "name": "GPS derived Integrated water vapour",
+    "url": "https://mosdac.gov.in/gps-derived-integrated-water-vapour",
+    "description": "This dataset contains Integrated Water Vapor (IWV) estimates derived from GPS receivers that comprise the GAGAN TEC network.",
+    "documents": []
+  },
+  {
+    "name": "GSMap ISRO Rain",
+    "url": "https://mosdac.gov.in/gsmap-isro-rain",
+    "description": "The GSMaP_ISRO is a precipitation product that was developed through the Indian Space Research Organisation (ISRO) - Japan Aerospace Exploration Agency (JAXA) Implementation of Agreement (IA) specific",
+    "documents": []
+  },
+  {
+    "name": "METEOSAT8 Cloud Properties",
+    "url": "https://mosdac.gov.in/meteosat8-cloud-properties",
+    "description": "NASA LaRC is operationally generating global cloud properties products using different geostationary satellites.",
+    "documents": []
+  },
+  {
+    "name": "3D Volumetric TERLS DWRproduct",
+    "url": "https://mosdac.gov.in/3d-volumetric-terls-dwrproduct",
+    "description": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumet",
+    "documents": []
+  },
+  {
+    "name": "Inland Water Height",
+    "url": "https://mosdac.gov.in/inland-water-height",
+    "description": "It is crucial to know how the storage of inland water bodies change over time. Also, hydrological modelling studies face the challenge of decreasing availability of in-situ monitoring data.",
+    "documents": []
+  },
+  {
+    "name": "River Discharge",
+    "url": "https://mosdac.gov.in/river-discharge",
+    "description": "River heights from satellite altimeters (ENVISAT, Jason-2 and SARAL AltiKa) have been derived at two cross-over points along Godavari River.",
+    "documents": []
+  },
+  {
+    "name": "Soil Moisture",
+    "url": "https://mosdac.gov.in/soil-moisture-0",
+    "description": "Data AccessClick Here to access the Science Products .",
+    "documents": []
+  },
+  {
+    "name": "Global Ocean Surface Current",
+    "url": "https://mosdac.gov.in/global-ocean-surface-current",
+    "description": "The Global Ocean Surface Current defined here as the average current for the top 0 to 30m layer is derived from the synergistic use of three different satellite derived parameters.",
+    "documents": []
+  },
+  {
+    "name": "High Resolution Sea Surface Salinity",
+    "url": "https://mosdac.gov.in/high-resolution-sea-surface-salinity",
+    "description": "The Bay of Bengal's high-resolution sea surface salinity has been reconstructed using a Lagrangian technique leveraging satellite data.",
+    "documents": []
+  },
+  {
+    "name": "Indian Mainland Coastal Product",
+    "url": "https://mosdac.gov.in/indian-mainland-coastal-product",
+    "description": "SARAL/AltiKa was launched on 25 February 2013 as a joint collaboration mission of ISRO and CNES.",
+    "documents": [
+      {
+        "title": "Click Here",
+        "url": "http://mosdac.gov.in/sites/default/files/docs/User-HANDBOOK-COASTAL-PRODUCT.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Ocean Subsurface",
+    "url": "https://mosdac.gov.in/ocean-subsurface",
+    "description": "Satellite data has been used to reconstruct ocean interior density and velocity anomalies in the Bay of Bengal through the “interior + surface Quasigeostrophic” (isQG) method.",
+    "documents": []
+  },
+  {
+    "name": "Oceanic Eddies Detection",
+    "url": "https://mosdac.gov.in/oceanic-eddies-detection",
+    "description": "The oceanic eddy parameter information was prepared for 24 years (1993 – 2016) over Bay of Bengal using AVISO.",
+    "documents": []
+  },
+  {
+    "name": "Sea Ice Occurrence Probability",
+    "url": "https://mosdac.gov.in/sea-ice-occurrence-probability",
+    "description": "The Sea Ice Occurrence Probability (SIOP36) data were prepared from 36 years (October 1978 to December 2014) NSIDC sea ice concentration (SIC) data over the Antarctic Region (Cavalieri, 1996).",
+    "documents": []
+  },
+  {
+    "name": "Wave-based Renewable Energy",
+    "url": "https://mosdac.gov.in/wave-based-renewable-energy",
+    "description": "AWARE demonstrates potential renewable energy resource available from ocean waves over Indian Ocean region.",
+    "documents": []
+  }
+]

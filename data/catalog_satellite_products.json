@@ -1,0 +1,37 @@
+[
+  {
+    "satellite": "1",
+    "sensor": "E06OCM_L2C_LAC_AD",
+    "product_url": "https://dx.doi.org/"
+  },
+  {
+    "satellite": "2",
+    "sensor": "E06OCM_L2C_LAC_GA",
+    "product_url": "https://dx.doi.org/"
+  },
+  {
+    "satellite": "3",
+    "sensor": "E06OCM_L2C_LAC_OC",
+    "product_url": "https://dx.doi.org/"
+  },
+  {
+    "satellite": "4",
+    "sensor": "E06OCM_L2C_LAC_PR",
+    "product_url": "https://dx.doi.org/"
+  },
+  {
+    "satellite": "5",
+    "sensor": "E06OCM_L2C_LAC_PS",
+    "product_url": "https://dx.doi.org/"
+  },
+  {
+    "satellite": "6",
+    "sensor": "E06OCM_L3_LAC_AD",
+    "product_url": "https://dx.doi.org/"
+  },
+  {
+    "satellite": "7",
+    "sensor": "E06OCM_L4_AC",
+    "product_url": "https://dx.doi.org/"
+  }
+]

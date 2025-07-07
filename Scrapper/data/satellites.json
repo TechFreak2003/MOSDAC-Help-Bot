@@ -1,0 +1,754 @@
+[
+  {
+    "name": "Home",
+    "url": "https://mosdac.gov.in/",
+    "description": "",
+    "documents": [
+      {
+        "title": "Monsoon Onset Prediction over Kerala (2024)",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202024.pdf"
+      },
+      {
+        "title": "Onset over Kerala - Monsoon 2023",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202023.pdf"
+      },
+      {
+        "title": "INSAT Product Version Information",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/INSAT_Product_Version_information_V01.pdf"
+      },
+      {
+        "title": "SFTP Services for Data Download",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/sftp-mosdac_0.pdf"
+      },
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Missions",
+    "url": "https://mosdac.gov.in#",
+    "description": "",
+    "documents": [
+      {
+        "title": "Monsoon Onset Prediction over Kerala (2024)",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202024.pdf"
+      },
+      {
+        "title": "Onset over Kerala - Monsoon 2023",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202023.pdf"
+      },
+      {
+        "title": "INSAT Product Version Information",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/INSAT_Product_Version_information_V01.pdf"
+      },
+      {
+        "title": "SFTP Services for Data Download",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/sftp-mosdac_0.pdf"
+      },
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "INSAT-3DR",
+    "url": "https://mosdac.gov.in/insat-3dr",
+    "description": "INSAT-3DR is identical to INSAT-3D in terms of Sensors and products. INSAT or the Indian National Satellite System is a series of multipurpose Geo-stationary satellites launched by ISRO to satisfy the telecommunications, broadcasting, meteorology, and search and rescue needs of India. Commissioned in 1983, INSAT is the largest domestic communication system in the Asia Pacific Region. The satellite is monitored and controlled by Master Control Facilities that exist in Hassan and Bhopal. INSAT-3DR is a multipurpose geosynchronous spacecraft with main meteorological payloads (imager and sounder). The main objectives for this mission are to provide an operational, environmental and storm warning system to protect life and property. INSAT3DR is monitoring the earth’s surface, oceanic observations and also provide data dissemination capabilities. It provides Broadcast Satellite Services (BSS) through two S-band transponders. The data acquisition and processing system is established at Space Applications Centre, Bopal Campus, Ahmedabad, India. The processing of INSAT-3DR data is taken place broadly in four steps. It is positioned at 740East Longitude.",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "INSAT-3D",
+    "url": "https://mosdac.gov.in/insat-3d",
+    "description": "INSAT or the Indian National Satellite System is a series of multipurpose Geo-stationary satellites launched by ISRO to satisfy the telecommunications, broadcasting, meteorology, and search and rescue needs of India. Commissioned in 1983, INSAT is the largest domestic communication system in the Asia Pacific Region. The satellite is monitored and controlled by Master Control Facilities that exist in Hassan and Bhopal. INSAT-3D is a multipurpose geosynchronous spacecraft with main meteorological payloads (imager and sounder). The main objectives for this mission are to provide an operational, environmental and storm warning system to protect life and property. INSAT3D is monitoring the earth’s surface, oceanic observations and also provide data dissemination capabilities. It provides Broadcast Satellite Services (BSS) through two S-band transponders. The data acquisition and processing system is established at Space Applications Centre, Bopal Campus, Ahmedabad, India. The processing of INSAT-3D data is taken place broadly in four steps.",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "KALPANA-1",
+    "url": "https://mosdac.gov.in/kalpana-1",
+    "description": "Metsat is an exclusive meteorological satellite of ISRO in geo-synchronous orbit. This satellite is developed out of a small I-1000 bus made of carbon fibre re-enforced plastic light weight structure, a uni power bus employing an 18AH Ni-Cd battery and a single GaAs/Ge solar panel generating 640 watts of power. Metsat uses a 3-axis stabilized momentum biased attitude control system with suitable linearly controlled magnetic torquers for solar radiation pressure compensation. A unified propulsion system of bi-propellant apogee motor of 440 Newtons and the reaction control engines of 22 Newtons has been selected for efficient and versatile mission management. Metsat carries on-board a Very High ResolutionRadiometer (VHRR) and a Data Relay Transponder (DRT) for weather data transmission. VHRR provides earth imageries in visible band with a resolution of2 km, in thermal infrared and water vapor bands with 8 km. DRT collects weather data from un-attended data collection platforms located throughout India and transmits the same to centrally located Meteorological Data Utilisation Centre. The satellite dry mass is about 495 kg. Metsat was launched on- board upgraded and modified satellite launch vehicle (PSLV) with a lift–off mass of 1060 kgs in September 2002. After successful launch and early orbit operations and in orbit characterization of the Payload, the satellite has been commissioned for routine usage of weather data and imageries.",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "INSAT-3A",
+    "url": "https://mosdac.gov.in/insat-3a",
+    "description": "INSAT-3A is a multipurpose satellite for providing telecommunications, television broadcasting, meteorological and search & rescue services. It carries twenty four transponders - twelve operating in the normal C-band frequency, six in Extended C-band and six in Ku-band. Nine of the twelve normal C-band transponders provide expanded coverage and the remaining three have India coverage beam. All the extended C-band as well as the Ku-band transponders has India coverage beams. INSAT-3A also carries a Ku-band beacon. For meteorological observation, INSAT-3A carries a three channel Very High Resolution Radiometer (VHRR) with 2 km resolution in the visible band and 8 km resolution in thermal infrared and water vapour bands. In addition, INSAT-3A carries a Charge Coupled Device (CCD) camera which operates in the visible and short wave infrared bands providing a spatial resolution of 1 km. A Data Relay Transponder (DRT) operating in UHF band is incorporated for realtime hydro-meteorological data collection from unattended platforms located on land and river basins. The data is then relayed in extended C-band to a central location. INSAT-3A also carries another transponder for Satellite Aided Search and Rescue (SAS & R) as part of India's contribution to the international Satellite Aided Search and Rescue programme. INSAT-3A was launched by European Ariane-5G Launch Vehicle into a Geosynchronous Transfer Orbit (GTO) with a perigee of 200 km and an apogee of 35,980 km. The satellite is maneuvered to its final orbit by firing the satellite's apogee motor. Subsequently, the deployment of solar array, antennae and the solar sail is carried out and the satellite is commissioned after in-orbit checkout.",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "MeghaTropiques",
+    "url": "https://mosdac.gov.in/megha-tropiques",
+    "description": "Megha-Tropiques is an Indo-French Joint Satellite Mission for studying the water cycle and energy exchanges in the tropics. The main objective of this mission is to understand the life cycle of convective systems that influence the tropical weather and climate and their role in associated energy and moisture budget of the atmosphere in tropical regions. Megha-Tropiques provides scientific data on the contribution of the water cycle to the tropical atmosphere, with information on condensed water in clouds, water vapour in the atmosphere, precipitation, and evaporation. With its circular orbit inclined 20 deg to the equator, the Megha-Tropiques is a unique satellite for climate research that should also aid scientists seeking to refine prediction models. The Megha-Tropiques has day, night and all-weather viewing capabilities; it passes over India almost a dozen times every day, giving scientists an almost real- time assessment of the evolution of clouds.",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "SARAL-AltiKa",
+    "url": "https://mosdac.gov.in/saral-altika",
+    "description": "SARAL mission results from the common interest of both CNES and ISRO in studying ocean from space using altimetry system and in promoting maximum use of the ARGOS Data Collecting System. Radar altimetry by satellite is a technique used in oceanography to measure, globally over the oceans, the sea level needed to understand ocean circulation and its variability. The importance of altimetry data to better understand the ocean circulation and its impact on the climate of the Earth led to the TOPEX/Poseidon and Jason series of satellites complemented by ERS1-2, GFO and ENVISAT. With the launch of these missions began a data collection that must continue well into the century in order to monitor the inter-annual evolution and separate transient phenomena from secular variations. SARAL/AltiKa mission belongs to the global altimetry system and then participates to the precise and accurate observations of ocean circulation and sea surface elevation for its life time. Thus it is the aim of AltiKa part of the SARAL mission to provide altimetric measurements designed to study ocean circulation and sea surface elevation with the same accuracy as the one provided by ENVISAT mission and complementary to Jasons mission. The AltiKa project developed by CNES is based on a large Ka-band altimeter (35.75 GHz, 500MHz), 1st oceanographic altimeter using such a high frequency. The use of the Ka-band frequency will supply more accurate measurements (improvement of the spatial and vertical resolution) enabling a better observation of ices, coastal areas, continental water bodies as well as the waves height. The drawback of this Ka-band frequency is its sensitivity to rain that can lead to signal attenuation. The SARAL/AltiKa mission is part of the operational satellite altimetry system, jointly with Jason-2, and enables to ensure the service continuity which is nowadays provided by ENVISAT altimeter jointly with Jason-2 and Jason-1. By ensuring the observations continuity and widening the observation areas, CNES answers the wish of the oceanography community by bringing a description: For the meso-scale in open ocean,, In coastal areas, For the seasonal forecast, For the hydrology, For the climate studies. AltiKa data will thus contribute, along with data from others altimetry missions, to the development of operational oceanography, to our climate understanding and to the development of forecasting capabilities through data assimilation methods improvement in coupled oceanatmosphere coupling models, bio-chemistry models, etc",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "OCEANSAT-2",
+    "url": "https://mosdac.gov.in/oceansat-2",
+    "description": "Oceansat-2 satellite mainframe systems derive their heritage from previous IRS missions. Oceansat-2 was launched by PSLV-C14 from Satish Dhawan Space Centre, Sriharikota on Sept. 23, 2009. It carries three payloads: Ocean Colour Monitor (OCM) Ku-band Pencil Beam scatterometer (SCAT) developed by ISRO Radio Occultation Sounder for Atmosphere (ROSA) developed by the Italian Space Agency. Oceansat-2 is envisaged to provide continuity of operational services of Oceansat-1(IRS-P4) with enhanced application potential.",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "OCEANSAT-3",
+    "url": "https://mosdac.gov.in/oceansat-3",
+    "description": "EOS-06(Oceansat-3)also known as Earth Observing SatelliteEOS-06(Oceansat-3),was launched by PSLV-C54 from Satish Dhawan Space Centre, Sriharikota on 26 November 2022.EOS-06(Oceansat-3)is developed to provide a unique opportunity for simultaneously measuring the physical, biological and atmospheric parameters for the first time from three instruments, (i) 13-band advanced Ocean Colour Monitor (OCM-3), (ii) Ku-band Scatterometer (SCAT-3) and (ii) a 2-channel Sea Surface Temperature Monitor (SSTM). ARGOS is the fourth payload provided by French Space Agency (CNES) and serves as a data collection platform from various ocean based platform.EOS-06(Oceansat-3)is envisaged to provide continuity of operational services of Oceansat-1, 2 and SCATSAT-1 Mission with enhanced application potential.",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "INSAT-3DS",
+    "url": "https://mosdac.gov.in/insat-3ds",
+    "description": "INSAT-3DS is identical to INSAT-3D in terms of Sensors and products. INSAT or the Indian National Satellite System is a series of multipurpose Geo-stationary satellites launched by ISRO to satisfy the telecommunications, broadcasting, meteorology, and search and rescue needs of India. Commissioned in 1983, INSAT is the largest domestic communication system in the Asia Pacific Region. The satellite is monitored and controlled by Master Control Facilities that exist in Hassan and Bhopal. INSAT-3DS is a multipurpose geosynchronous spacecraft with main meteorological payloads (imager and sounder). The main objectives for this mission are to provide an operational, environmental and storm warning system to protect life and property. INSAT3S is monitoring the earth’s surface, oceanic observations and also provide data dissemination capabilities. It provides Broadcast Satellite Services (BSS) through two S-band transponders. The data acquisition and processing system is established at Space Applications Centre, Bopal Campus, Ahmedabad, India. The processing of INSAT-3DS data is taken place broadly in four steps.",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "SCATSAT-1",
+    "url": "https://mosdac.gov.in/scatsat-1",
+    "description": "Scatsat-1 was launched by PSLV-C35 from Satish Dhawan Space Centre, Sriharikota on September 26, 2016. It carries the Ku-band Pencil Beam scatterometer (SCAT) payload developed by SAC-ISRO.",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Catalog",
+    "url": "https://mosdac.gov.in#",
+    "description": "",
+    "documents": [
+      {
+        "title": "Monsoon Onset Prediction over Kerala (2024)",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202024.pdf"
+      },
+      {
+        "title": "Onset over Kerala - Monsoon 2023",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202023.pdf"
+      },
+      {
+        "title": "INSAT Product Version Information",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/INSAT_Product_Version_information_V01.pdf"
+      },
+      {
+        "title": "SFTP Services for Data Download",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/sftp-mosdac_0.pdf"
+      },
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Satellite",
+    "url": "https://mosdac.gov.in/internal/catalog-satellite",
+    "description": null,
+    "documents": []
+  },
+  {
+    "name": "Insitu (AWS)",
+    "url": "https://mosdac.gov.in/internal/catalog-insitu",
+    "description": null,
+    "documents": []
+  },
+  {
+    "name": "RADAR",
+    "url": "https://mosdac.gov.in/internal/catalog-radar",
+    "description": null,
+    "documents": []
+  },
+  {
+    "name": "Galleries",
+    "url": "https://mosdac.gov.in#",
+    "description": "",
+    "documents": [
+      {
+        "title": "Monsoon Onset Prediction over Kerala (2024)",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202024.pdf"
+      },
+      {
+        "title": "Onset over Kerala - Monsoon 2023",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202023.pdf"
+      },
+      {
+        "title": "INSAT Product Version Information",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/INSAT_Product_Version_information_V01.pdf"
+      },
+      {
+        "title": "SFTP Services for Data Download",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/sftp-mosdac_0.pdf"
+      },
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Satellite Products",
+    "url": "https://mosdac.gov.in/internal/gallery",
+    "description": null,
+    "documents": []
+  },
+  {
+    "name": "Weather Forecast",
+    "url": "https://mosdac.gov.in/internal/gallery/weather",
+    "description": null,
+    "documents": []
+  },
+  {
+    "name": "Ocean Forecast",
+    "url": "https://mosdac.gov.in/internal/gallery/ocean",
+    "description": null,
+    "documents": []
+  },
+  {
+    "name": "RADAR (DWR)",
+    "url": "https://mosdac.gov.in/internal/gallery/dwr",
+    "description": null,
+    "documents": []
+  },
+  {
+    "name": "Global Ocean Current",
+    "url": "https://mosdac.gov.in/internal/gallery/current",
+    "description": null,
+    "documents": []
+  },
+  {
+    "name": "Data Access",
+    "url": "https://mosdac.gov.in#",
+    "description": "",
+    "documents": [
+      {
+        "title": "Monsoon Onset Prediction over Kerala (2024)",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202024.pdf"
+      },
+      {
+        "title": "Onset over Kerala - Monsoon 2023",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202023.pdf"
+      },
+      {
+        "title": "INSAT Product Version Information",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/INSAT_Product_Version_information_V01.pdf"
+      },
+      {
+        "title": "SFTP Services for Data Download",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/sftp-mosdac_0.pdf"
+      },
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Order Data",
+    "url": "https://mosdac.gov.in/internal/uops",
+    "description": null,
+    "documents": []
+  },
+  {
+    "name": "Open Data",
+    "url": "https://mosdac.gov.in#",
+    "description": "",
+    "documents": [
+      {
+        "title": "Monsoon Onset Prediction over Kerala (2024)",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202024.pdf"
+      },
+      {
+        "title": "Onset over Kerala - Monsoon 2023",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202023.pdf"
+      },
+      {
+        "title": "INSAT Product Version Information",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/INSAT_Product_Version_information_V01.pdf"
+      },
+      {
+        "title": "SFTP Services for Data Download",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/sftp-mosdac_0.pdf"
+      },
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Atmosphere",
+    "url": "https://mosdac.gov.in#",
+    "description": "",
+    "documents": [
+      {
+        "title": "Monsoon Onset Prediction over Kerala (2024)",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202024.pdf"
+      },
+      {
+        "title": "Onset over Kerala - Monsoon 2023",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202023.pdf"
+      },
+      {
+        "title": "INSAT Product Version Information",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/INSAT_Product_Version_information_V01.pdf"
+      },
+      {
+        "title": "SFTP Services for Data Download",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/sftp-mosdac_0.pdf"
+      },
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Bayesian based MT-SAPHIR rainfall",
+    "url": "https://mosdac.gov.in/bayesian-based-mt-saphir-rainfall",
+    "description": "",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "GPS derived Integrated water vapour",
+    "url": "https://mosdac.gov.in/gps-derived-integrated-water-vapour",
+    "description": "",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "GSMap ISRO Rain",
+    "url": "https://mosdac.gov.in/gsmap-isro-rain",
+    "description": "",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "METEOSAT8 Cloud Properties",
+    "url": "https://mosdac.gov.in/meteosat8-cloud-properties",
+    "description": "",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Land",
+    "url": "https://mosdac.gov.in#",
+    "description": "",
+    "documents": [
+      {
+        "title": "Monsoon Onset Prediction over Kerala (2024)",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202024.pdf"
+      },
+      {
+        "title": "Onset over Kerala - Monsoon 2023",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202023.pdf"
+      },
+      {
+        "title": "INSAT Product Version Information",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/INSAT_Product_Version_information_V01.pdf"
+      },
+      {
+        "title": "SFTP Services for Data Download",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/sftp-mosdac_0.pdf"
+      },
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "3D Volumetric TERLS DWRproduct",
+    "url": "https://mosdac.gov.in/3d-volumetric-terls-dwrproduct",
+    "description": "",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Inland Water Height",
+    "url": "https://mosdac.gov.in/inland-water-height",
+    "description": "",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "River Discharge",
+    "url": "https://mosdac.gov.in/river-discharge",
+    "description": "",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Soil Moisture",
+    "url": "https://mosdac.gov.in/soil-moisture-0",
+    "description": "",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Ocean",
+    "url": "https://mosdac.gov.in#",
+    "description": "",
+    "documents": [
+      {
+        "title": "Monsoon Onset Prediction over Kerala (2024)",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202024.pdf"
+      },
+      {
+        "title": "Onset over Kerala - Monsoon 2023",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202023.pdf"
+      },
+      {
+        "title": "INSAT Product Version Information",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/INSAT_Product_Version_information_V01.pdf"
+      },
+      {
+        "title": "SFTP Services for Data Download",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/sftp-mosdac_0.pdf"
+      },
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Global Ocean Surface Current",
+    "url": "https://mosdac.gov.in/global-ocean-surface-current",
+    "description": "",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "High Resolution Sea Surface Salinity",
+    "url": "https://mosdac.gov.in/high-resolution-sea-surface-salinity",
+    "description": "",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Indian Mainland Coastal Product",
+    "url": "https://mosdac.gov.in/indian-mainland-coastal-product",
+    "description": "",
+    "documents": [
+      {
+        "title": "Click Here",
+        "url": "http://mosdac.gov.in/sites/default/files/docs/User-HANDBOOK-COASTAL-PRODUCT.pdf"
+      },
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Ocean Subsurface",
+    "url": "https://mosdac.gov.in/ocean-subsurface",
+    "description": "",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Oceanic Eddies Detection",
+    "url": "https://mosdac.gov.in/oceanic-eddies-detection",
+    "description": "",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Sea Ice Occurrence Probability",
+    "url": "https://mosdac.gov.in/sea-ice-occurrence-probability",
+    "description": "",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Wave based Renewable Energy",
+    "url": "https://mosdac.gov.in/wave-based-renewable-energy",
+    "description": "",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Cal-Val",
+    "url": "https://mosdac.gov.in/internal/calval-data",
+    "description": null,
+    "documents": []
+  },
+  {
+    "name": "Forecast",
+    "url": "https://mosdac.gov.in/internal/forecast-menu",
+    "description": null,
+    "documents": []
+  },
+  {
+    "name": "RSS Feeds",
+    "url": "https://mosdac.gov.in/rss-feed",
+    "description": "Uses RSS (Rich Site Summary) based technology for dissemination of Satellite Images and Data Products to end users on Internet Allow Users to subscribe to these feeds automatically and get notified for availability of new data sets Feed subscription is supported by Standard browsers and on RSS readers available on Mobile Apps Enhanced Features specific to Satellite Data are Planned in Customized Client, supporting automated download, analysis and visualization of data Currently SCATSAT-1 High Resolution Products are available, soon more products are planned to be added. Access the feeds using below links: SCATSAT-1 Feed:https://mosdac.gov.in/isrocast.xml INSAT3D-Imager Feed:https://mosdac.gov.in/3dimager.xml INSAT3D-Sounder Feed:https://mosdac.gov.in/3dsounder.xml INSAT3DR-Imager Feed:https://mosdac.gov.in/3drimager.xml INSAT3DR-Sounder Feed:https://mosdac.gov.in/3drsounder.xml",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Reports",
+    "url": "https://mosdac.gov.in#",
+    "description": "",
+    "documents": [
+      {
+        "title": "Monsoon Onset Prediction over Kerala (2024)",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202024.pdf"
+      },
+      {
+        "title": "Onset over Kerala - Monsoon 2023",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202023.pdf"
+      },
+      {
+        "title": "INSAT Product Version Information",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/INSAT_Product_Version_information_V01.pdf"
+      },
+      {
+        "title": "SFTP Services for Data Download",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/sftp-mosdac_0.pdf"
+      },
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Calibration",
+    "url": "https://mosdac.gov.in#",
+    "description": "",
+    "documents": [
+      {
+        "title": "Monsoon Onset Prediction over Kerala (2024)",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202024.pdf"
+      },
+      {
+        "title": "Onset over Kerala - Monsoon 2023",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202023.pdf"
+      },
+      {
+        "title": "INSAT Product Version Information",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/INSAT_Product_Version_information_V01.pdf"
+      },
+      {
+        "title": "SFTP Services for Data Download",
+        "url": "https://mosdac.gov.in/sites/default/files/docs/sftp-mosdac_0.pdf"
+      },
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Insitu",
+    "url": "https://mosdac.gov.in/insitu",
+    "description": null,
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Relative",
+    "url": "https://mosdac.gov.in/calibration-reports",
+    "description": null,
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Validation",
+    "url": "https://mosdac.gov.in/validation-reports",
+    "description": null,
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Data Quality",
+    "url": "https://mosdac.gov.in/data-quality",
+    "description": null,
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Weather",
+    "url": "https://mosdac.gov.in/weather-reports",
+    "description": null,
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Atlases",
+    "url": "https://mosdac.gov.in/atlases",
+    "description": null,
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Tools",
+    "url": "https://mosdac.gov.in/tools",
+    "description": null,
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Sitemap",
+    "url": "https://mosdac.gov.in/sitemap",
+    "description": null,
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Help",
+    "url": "https://mosdac.gov.in/help",
+    "description": "    Text Size Icons Following different options are provided in the form of icons which are available on the top of each page: Allows to increase the text size up to Two levels Allows to decrease the text size up to Two levels Allows to set default text size Changing the color scheme refers to applying a suitable background and text color that ensures clear readability. There are two options provided to change the color scheme. These are: Default contrast scheme Yellow text on Black background                                                                                                                 Screen Reader AccessProvides information regarding access to different Screen Readers.Space Applications Centre fully complies with Guidelines for Indian Government Websites (link is external). Our visitors with visual impairments can access the Portal using Assistive Technologies, such as screen readers.The information of the Portal is accessible with different screen readers, such as JAWS, NVDA, SAFA, Supernova and Window-Eyes.Following table lists the information about different screen readers:         ",
+    "documents": [
+      {
+        "title": "",
+        "url": "https://mosdac.gov.in/docs/STQC.pdf"
+      }
+    ]
+  }
+]
